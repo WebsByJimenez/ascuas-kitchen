@@ -42,27 +42,27 @@ ascuas-kitchen/
 ├── js/
 │   └── main.js
 └── img/
-    ├── chuletas.png
-    ├── fachada.png
-    ├── fajita.png
-    ├── food1.png
-    ├── food2.png
-    ├── food3.png
-    ├── food4.png
-    ├── menu.png
-    ├── og-image.jpg
-    ├── postre1.png
-    ├── postre2.png
-    ├── postre3.png
-    ├── slider1.png
-    ├── slider2.png
-    ├── slider3.png
-    ├── slider4.png
-    ├── facebook.svg
-    ├── instagram.svg
-    ├── logo.svg
-    ├── tiktok.svg
-    └── whatsapp.svg
+├── chuletas.png
+├── fachada.png
+├── fajita.png
+├── food1.png
+├── food2.png
+├── food3.png
+├── food4.png
+├── menu.png
+├── og-image.jpg
+├── postre1.png
+├── postre2.png
+├── postre3.png
+├── slider1.png
+├── slider2.png
+├── slider3.png
+├── slider4.png
+├── facebook.svg
+├── instagram.svg
+├── logo.svg
+├── tiktok.svg
+└── whatsapp.svg
 ```
 
 ## Cómo ejecutarlo en local
