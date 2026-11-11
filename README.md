@@ -1,4 +1,4 @@
-# Ascuas Kitchen
+# Proyecto Ascuas Kitchen
 
 Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex-Mex y postres caseros. Es un **proyecto de práctica** hecho con HTML, CSS y JavaScript, sin frameworks.
 
