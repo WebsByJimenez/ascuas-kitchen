@@ -1,6 +1,4 @@
-# Ascuas Kitchen
-
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/ascuas-kichen/)
+## Ascuas Kitchen
 
 Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex-Mex y postres caseros. Es un **proyecto de práctica** hecho con HTML, CSS y JavaScript, sin frameworks.
 
@@ -17,14 +15,15 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 
 ## ✨ Características
 
-- **Diseño** adaptable (responsive) para ordenador, tablet y móvil.
-- \*\*Slider principal y sliders de productos con [Swiper](https://swiperjs.com/).
-- \*\*Carta con tres pestañas (hamburguesas, Tex-Mex y postres) hechas solo con CSS.
-- \*\*Menú hamburguesa en móvil que se cierra al pulsar un enlace.
-- \*\*Cuadro de reseña con valoración por estrellas, que simula el envío sin guardar nada.
-- \*\*Avisos flotantes en los botones de ejemplo (Comprar, Menú, Más información y Cómo llegar).
-- \*\*Accesibilidad: textos alternativos en las imágenes, etiquetas `aria-label` y pestañas y estrellas manejables con teclado.
-- \*\*SEO básico: `meta description` y etiquetas Open Graph para compartir el enlace.
+- Diseño adaptable (responsive) para ordenador, tablet y móvil.
+
+- Slider principal y sliders de productos con [Swiper](https://swiperjs.com/).
+- Carta con tres pestañas (hamburguesas, Tex-Mex y postres) hechas solo con CSS.
+- Menú hamburguesa en móvil que se cierra al pulsar un enlace.
+- Cuadro de reseña con valoración por estrellas, que simula el envío sin guardar nada.
+- Avisos flotantes en los botones de ejemplo (Comprar, Menú, Más información y Cómo llegar).
+- Accesibilidad: textos alternativos en las imágenes, etiquetas `aria-label` y pestañas y estrellas manejables con teclado.
+- SEO básico: `meta description` y etiquetas Open Graph para compartir el enlace.
 
 ## Tecnologías
 
