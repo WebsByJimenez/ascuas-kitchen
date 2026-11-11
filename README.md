@@ -1,4 +1,4 @@
-## Ascuas Kitchen
+## 🔥 Ascuas Kitchen
 
 Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex-Mex y postres caseros. Es un **proyecto de práctica** hecho con HTML, CSS y JavaScript, sin frameworks.
 
@@ -25,13 +25,13 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 - Accesibilidad: textos alternativos en las imágenes, etiquetas `aria-label` y pestañas y estrellas manejables con teclado.
 - SEO básico: `meta description` y etiquetas Open Graph para compartir el enlace.
 
-## Tecnologías
+## 💻 Tecnologías
 
-- \*\*HTML5
-- \*\*CSS3 (variables, Flexbox, Grid y `@media`)
-- \*\*JavaScript (vanilla)
-- \*\*Swiper 11
-- \*\*Tipografía Poppins (Google Fonts)
+- HTML5
+- CSS3 (variables, Flexbox, Grid y `@media`)
+- JavaScript (vanilla)
+- Swiper 11
+- Tipografía Poppins (Google Fonts)
 
 📂 Estructura del Proyecto
 
@@ -72,18 +72,18 @@ ascuas-kitchen/
 └── whatsapp.svg
 ```
 
-## Cómo ejecutarlo en local
+## 📱Cómo ejecutarlo en local
 
-1. - 📱Descarga o clona el repositorio.
-2. \*\*Abre `index.html` en el navegador.
+1. - Descarga o clona el repositorio.
+2. - Abre `index.html` en el navegador.
 
 No necesita instalación ni servidor. Hace falta conexión a internet para cargar Swiper y la tipografía.
 
-## Créditos de imágenes
+## ⭐ Créditos de imágenes
 
 Todas las imágenes del proyecto (fotos de la carta, fachada y demás) están generadas con inteligencia artificial y se incluyen solo con fines ilustrativos.
 
-## Licencia
+## ⚖️ Licencia
 
 Código bajo licencia MIT: puedes usarlo, copiarlo y modificarlo siempre que mantengas el aviso de copyright. Consulta el archivo [LICENSE](LICENSE).
 
