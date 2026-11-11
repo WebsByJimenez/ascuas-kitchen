@@ -1,5 +1,7 @@
 # Ascuas Kitchen
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-brightgreen?logo=github)](https://WebsByJimenez.github.io/ascuas-kichen/)
+
 Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex-Mex y postres caseros. Es un **proyecto de práctica** hecho con HTML, CSS y JavaScript, sin frameworks.
 
 > Los datos, las reseñas, los teléfonos y los enlaces son ficticios.
@@ -8,28 +10,34 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 
 ![Ascuas Kitchen en escritorio](doc/captura-escritorio.png)
 
-## Características
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)](./LICENSE)
 
-- Diseño adaptable (responsive) para ordenador, tablet y móvil.
-- Slider principal y sliders de productos con [Swiper](https://swiperjs.com/).
-- Carta con tres pestañas (hamburguesas, Tex-Mex y postres) hechas solo con CSS.
-- Menú hamburguesa en móvil que se cierra al pulsar un enlace.
-- Cuadro de reseña con valoración por estrellas, que simula el envío sin guardar nada.
-- Avisos flotantes en los botones de ejemplo (Comprar, Menú, Más información y Cómo llegar).
-- Accesibilidad: textos alternativos en las imágenes, etiquetas `aria-label` y pestañas y estrellas manejables con teclado.
-- SEO básico: `meta description` y etiquetas Open Graph para compartir el enlace.
+## ✨ Características
+
+- \*\*Diseño adaptable (responsive) para ordenador, tablet y móvil.
+- \*\*Slider principal y sliders de productos con [Swiper](https://swiperjs.com/).
+- \*\*Carta con tres pestañas (hamburguesas, Tex-Mex y postres) hechas solo con CSS.
+- \*\*Menú hamburguesa en móvil que se cierra al pulsar un enlace.
+- \*\*Cuadro de reseña con valoración por estrellas, que simula el envío sin guardar nada.
+- \*\*Avisos flotantes en los botones de ejemplo (Comprar, Menú, Más información y Cómo llegar).
+- \*\*Accesibilidad: textos alternativos en las imágenes, etiquetas `aria-label` y pestañas y estrellas manejables con teclado.
+- \*\*SEO básico: `meta description` y etiquetas Open Graph para compartir el enlace.
 
 ## Tecnologías
 
-- HTML5
-- CSS3 (variables, Flexbox, Grid y `@media`)
-- JavaScript (vanilla)
-- Swiper 11
-- Tipografía Poppins (Google Fonts)
+- \*\*HTML5
+- \*\*CSS3 (variables, Flexbox, Grid y `@media`)
+- \*\*JavaScript (vanilla)
+- \*\*Swiper 11
+- \*\*Tipografía Poppins (Google Fonts)
 
-## Estructura del proyecto
+📂 Estructura del Proyecto
 
-```
+```bash
+
 ascuas-kitchen/
 ├── index.html
 ├── .gitignore
@@ -67,8 +75,8 @@ ascuas-kitchen/
 
 ## Cómo ejecutarlo en local
 
-1. Descarga o clona el repositorio.
-2. Abre `index.html` en el navegador.
+1. \*\*Descarga o clona el repositorio.
+2. \*\*Abre `index.html` en el navegador.
 
 No necesita instalación ni servidor. Hace falta conexión a internet para cargar Swiper y la tipografía.
 
@@ -80,6 +88,6 @@ Todas las imágenes del proyecto (fotos de la carta, fachada y demás) están ge
 
 Código bajo licencia MIT: puedes usarlo, copiarlo y modificarlo siempre que mantengas el aviso de copyright. Consulta el archivo [LICENSE](LICENSE).
 
-## Autor
+## 👤 Autor
 
 **WebsByJiménez** · [GitHub](https://github.com/WebsByJimenez)
