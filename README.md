@@ -17,7 +17,7 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 
 ## ✨ Características
 
-- \*\*Diseño adaptable (responsive) para ordenador, tablet y móvil.
+- **Diseño** adaptable (responsive) para ordenador, tablet y móvil.
 - \*\*Slider principal y sliders de productos con [Swiper](https://swiperjs.com/).
 - \*\*Carta con tres pestañas (hamburguesas, Tex-Mex y postres) hechas solo con CSS.
 - \*\*Menú hamburguesa en móvil que se cierra al pulsar un enlace.
@@ -75,7 +75,7 @@ ascuas-kitchen/
 
 ## Cómo ejecutarlo en local
 
-1. \*\*Descarga o clona el repositorio.
+1. - 📱Descarga o clona el repositorio.
 2. \*\*Abre `index.html` en el navegador.
 
 No necesita instalación ni servidor. Hace falta conexión a internet para cargar Swiper y la tipografía.
