@@ -74,8 +74,8 @@ ascuas-kitchen/
 
 ## ▶️ Cómo ejecutarlo en local
 
-1. - Descarga o clona el repositorio.
-2. - Abre `index.html` en el navegador.
+1. Descarga o clona el repositorio.
+2. Abre `index.html` en el navegador.
 
 No necesita instalación ni servidor. Hace falta conexión a internet para cargar Swiper y la tipografía.
 
