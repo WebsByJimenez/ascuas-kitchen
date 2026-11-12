@@ -6,8 +6,9 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 
 🌐 **Demo:** https://WebsByJimenez.github.io/ascuas-kitchen/
 
-![Ascuas Kitchen en escritorio](doc/captura-escritorio.png)
-![Ascuas Kitchen en móvil](doc/captura-movil.png)
+|                                  Versión Escritorio                                   |                                Versión Móvil                                |
+| :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| <img src="doc/captura-escritorio.png" alt="Ascuas Kitchen en escritorio" width="500"> | <img src="doc/captura-movil.png" alt="Ascuas Kitchen en móvil" width="220"> |
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
