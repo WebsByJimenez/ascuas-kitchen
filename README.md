@@ -4,9 +4,10 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 
 > Los datos, las reseñas, los teléfonos y los enlaces son ficticios.
 
-🌐**Demo:** https://WebsByJimenez.github.io/ascuas-kitchen/
+🌐 **Demo:** https://WebsByJimenez.github.io/ascuas-kitchen/
 
 ![Ascuas Kitchen en escritorio](doc/captura-escritorio.png)
+![Ascuas Kitchen en móvil](doc/captura-movil.png)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -16,7 +17,6 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 ## ✨ Características
 
 - Diseño adaptable (responsive) para ordenador, tablet y móvil.
-
 - Slider principal y sliders de productos con [Swiper](https://swiperjs.com/).
 - Carta con tres pestañas (hamburguesas, Tex-Mex y postres) hechas solo con CSS.
 - Menú hamburguesa en móvil que se cierra al pulsar un enlace.
@@ -33,10 +33,9 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 - Swiper 11
 - Tipografía Poppins (Google Fonts)
 
-📂 Estructura del Proyecto
+## 📂 Estructura del proyecto
 
-```bash
-
+```text
 ascuas-kitchen/
 ├── index.html
 ├── .gitignore
@@ -49,27 +48,27 @@ ascuas-kitchen/
 ├── js/
 │   └── main.js
 └── img/
-├── chuletas.png
-├── fachada.png
-├── fajita.png
-├── food1.png
-├── food2.png
-├── food3.png
-├── food4.png
-├── menu.png
-├── og-image.jpg
-├── postre1.png
-├── postre2.png
-├── postre3.png
-├── slider1.png
-├── slider2.png
-├── slider3.png
-├── slider4.png
-├── facebook.svg
-├── instagram.svg
-├── logo.svg
-├── tiktok.svg
-└── whatsapp.svg
+    ├── chuletas.png
+    ├── fachada.png
+    ├── fajita.png
+    ├── food1.png
+    ├── food2.png
+    ├── food3.png
+    ├── food4.png
+    ├── menu.png
+    ├── og-image.jpg
+    ├── postre1.png
+    ├── postre2.png
+    ├── postre3.png
+    ├── slider1.png
+    ├── slider2.png
+    ├── slider3.png
+    ├── slider4.png
+    ├── facebook.svg
+    ├── instagram.svg
+    ├── logo.svg
+    ├── tiktok.svg
+    └── whatsapp.svg
 ```
 
 ## ▶️ Cómo ejecutarlo en local
