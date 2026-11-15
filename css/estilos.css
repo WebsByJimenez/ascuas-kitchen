@@ -261,7 +261,7 @@ header {
   text-align: left;
   background-color: var(--negro-2);
 }
-.product-img h4 {
+.product-img h3 {
   display: inline-block;
   padding: 5px 7px;
   line-height: 15px;
@@ -290,7 +290,7 @@ header {
   text-align: left;
 }
 
-.product-txt h4 {
+.product-txt h3 {
   color: #fff;
   font-size: 18px;
   text-transform: uppercase;
@@ -381,7 +381,7 @@ header {
 .txt {
   color: #fff;
 }
-.txt h4 {
+.txt h3 {
   font-size: 18px;
   color: var(--gris);
   margin-bottom: 30px;
@@ -648,8 +648,9 @@ footer {
   box-shadow: 0 0 0 100vmax var(--negro-1);
   clip-path: inset(0 -100vmax);
 }
-.links h4 {
+.links h3 {
   color: #fff;
+  font-size: 1rem;
   text-transform: uppercase;
   margin-bottom: 25px;
 }
@@ -820,7 +821,7 @@ footer {
     align-items: center;
     text-align: center;
   }
-  .links h4 {
+  .links h3 {
     margin: 25px 0 10px;
   }
 }
