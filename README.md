@@ -32,7 +32,7 @@ Web de una hamburguesería ficticia con hamburguesas gourmet, especialidades Tex
 - CSS3 (variables, Flexbox, Grid y `@media`)
 - JavaScript (vanilla)
 - Swiper 11
-- Tipografía Poppins (Google Fonts)
+- Tipografía Poppins, alojada en local (carpeta `fonts/`)
 
 ## 📂 Estructura del proyecto
 
@@ -45,7 +45,13 @@ ascuas-kitchen/
 ├── css/
 │   └── estilos.css
 ├── doc/
-│   └── captura-escritorio.png
+│   ├── captura-escritorio.png
+│   └── captura-movil.png
+├── fonts/
+│   ├── poppins-v24-latin-regular.woff2
+│   ├── poppins-v24-latin-600.woff2
+│   ├── poppins-v24-latin-700.woff2
+│   └── poppins-v24-latin-800.woff2
 ├── js/
 │   └── main.js
 └── img/
@@ -66,6 +72,7 @@ ascuas-kitchen/
     ├── slider3.png
     ├── slider4.png
     ├── facebook.svg
+    ├── favicon.svg
     ├── instagram.svg
     ├── logo.svg
     ├── tiktok.svg
@@ -77,11 +84,15 @@ ascuas-kitchen/
 1. Descarga o clona el repositorio.
 2. Abre `index.html` en el navegador.
 
-No necesita instalación ni servidor. Hace falta conexión a internet para cargar Swiper y la tipografía.
+No necesita instalación ni servidor. Hace falta conexión a internet solo para cargar Swiper; la tipografía Poppins está incluida en el proyecto.
 
 ## ⭐ Créditos de imágenes
 
 Todas las imágenes del proyecto (fotos de la carta, fachada y demás) están generadas con inteligencia artificial y se incluyen solo con fines ilustrativos.
+
+## 🔤 Créditos de tipografía
+
+La tipografía [Poppins](https://fonts.google.com/specimen/Poppins) se distribuye bajo la licencia [SIL Open Font License 1.1](https://openfontlicense.org/) y se incluye en la carpeta `fonts/`.
 
 ## ⚖️ Licencia
 
